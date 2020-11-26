@@ -6,8 +6,8 @@ In the project directory, you can run:
 
 Runs the rabbitmq in the development mode.<br />
 Open [http://localhost:15672](http://localhost:15672) to view it in the browser.<br />
-Username: Guest
-Password: Guest
+Username: `Guest` <br />
+Password: `Guest`
 
 ### `yarn worker` or `npm run worker`
 
